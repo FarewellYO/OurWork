@@ -1,6 +1,6 @@
 Order|Name|Table
 ---|:--:|---:
-1|宋迎娟|<a href="http://blog.sina.com.cn/s/blog_6f6d07f80100oqlt.html">http://blog.sina.com.cn/s/blog_6f6d07f80100oqlt.html</a>
+1|宋迎娟|<a href="https://github.com/songyingjuan/project">https://github.com/songyingjuan/project</a>
 2|陈昭洁|<a href="https://github.com/FarewellYO/Homework">https://github.com/FarewellYO/Homework</a>
 3|薛静雯|<a href="https://github.com/FarewellYO/Homework">https://github.com/FarewellYO/Homework</a>
 4|熊海燕|<a href="https://github.com/xhysah/xhy">https://github.com/xhysah/xhy</a>
