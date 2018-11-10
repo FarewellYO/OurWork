@@ -1,13 +1,13 @@
 Order|Name|Table
 ---|:--:|---:
 1|宋迎娟|<a href="https://github.com/songyingjuan/project">https://github.com/songyingjuan/project</a>
-2|陈昭洁|<a href="https://github.com/FarewellYO/Homework">https://github.com/FarewellYO/Homework</a>
+2|陈昭洁|<a href="https://gitee.com/cynicoser/zyx/tree/master">https://gitee.com/cynicoser/zyx/tree/master</a>
 3|薛静雯|<a href="https://github.com/FarewellYO/Homework">https://github.com/FarewellYO/Homework</a>
 4|熊海燕|<a href="https://github.com/xhysah/xhy">https://github.com/xhysah/xhy</a>
 5|杨新冉|
 6|侯昱茹|<a href="https://gitee.com/M_onkey/homework1">https://gitee.com/M_onkey/homework1</a>
 7|王书静|<a href="https://github.com/wangxiaohen/wangshujing.git">https://github.com/wangxiaohen/wangshujing.git</a>
-8|张兆祥|<a href="https://gitee.com/ZZX0902/ZZX0002">https://gitee.com/ZZX0902/ZZX0002</a>
+8|张兆翔|<a href="https://gitee.com/ZZX0902/ZZX0002">https://gitee.com/ZZX0902/ZZX0002</a>
 9|孟晓慧|<a href="https://gitee.com/MXH123456/hw1">https://gitee.com/MXH123456/hw1</a>
 10|朱智杰|<a href="https://gitee.com/zzj98/FirstWork">https://gitee.com/zzj98/FirstWork</a>
 11|陆金钰|<a href="https://github.com/ljy110/L/tree/master/ljy">https://github.com/ljy110/L/tree/master/ljy</a>
