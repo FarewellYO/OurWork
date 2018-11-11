@@ -4,7 +4,7 @@ Order|Name|Table
 2|陈昭洁|<a href="https://gitee.com/cynicoser/zyx/tree/master">https://gitee.com/cynicoser/zyx/tree/master</a>
 3|薛静雯|<a href="https://github.com/FarewellYO/Homework">https://github.com/FarewellYO/Homework</a>
 4|熊海燕|<a href="https://github.com/xhysah/xhy">https://github.com/xhysah/xhy</a>
-5|杨新冉|
+5|杨新冉|<a href="https://github.com/pinklalala/homework">https://github.com/pinklalala/homework</a>
 6|侯昱茹|<a href="https://gitee.com/M_onkey/homework1">https://gitee.com/M_onkey/homework1</a>
 7|王书静|<a href="https://github.com/wangxiaohen/wangshujing.git">https://github.com/wangxiaohen/wangshujing.git</a>
 8|张兆翔|<a href="https://gitee.com/ZZX0902/ZZX0002">https://gitee.com/ZZX0902/ZZX0002</a>
