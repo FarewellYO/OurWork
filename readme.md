@@ -1,7 +1,7 @@
 Order|Name|Table
 ---|:--:|---:
 1|宋迎娟|<a href="https://github.com/songyingjuan/project">https://github.com/songyingjuan/project</a>
-2|陈昭洁|<a href="https://gitee.com/cynicoser/zyx/tree/master">https://gitee.com/cynicoser/zyx/tree/master</a>
+2|陈昭洁|<a href="https://gitee.com/cynicoser/zyx/tree/master/hw03">https://gitee.com/cynicoser/zyx/tree/master/hw03</a>
 3|薛静雯|<a href="https://github.com/FarewellYO/Homework">https://github.com/FarewellYO/Homework</a>
 4|熊海燕|<a href="https://github.com/xhysah/xhy">https://github.com/xhysah/xhy</a>
 5|杨新冉|<a href="https://github.com/pinklalala/homework">https://github.com/pinklalala/homework</a>
