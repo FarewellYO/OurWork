@@ -6,9 +6,9 @@ Order|Name|Table
 4|熊海燕|<a href="https://github.com/xhysah/xhy">https://github.com/xhysah/xhy</a>
 5|杨新冉|<a href="https://github.com/pinklalala/homework">https://github.com/pinklalala/homework</a>
 6|侯昱茹|<a href="https://gitee.com/M_onkey/homework1">https://gitee.com/M_onkey/homework1</a>
-7|王书静|<a href="https://github.com/wangxiaohen/wangshujing.git">https://github.com/wangxiaohen/wangshujing.git</a>
+7|王书静|<a href="https://github.com/wangxiaohen/Second.git">https://github.com/wangxiaohen/Second.git</a>
 8|张兆翔|<a href="https://gitee.com/ZZX0902/ZZX0002">https://gitee.com/ZZX0902/ZZX0002</a>
-9|孟晓慧|<a href="https://gitee.com/MXH123456/hw1">https://gitee.com/MXH123456/hw1</a>
+9|孟晓慧|<a href="https://github.com/MXHOO/WORK">https://github.com/MXHOO/WORK</a>
 10|朱智杰|<a href="https://gitee.com/zzj98/FirstWork">https://gitee.com/zzj98/FirstWork</a>
 11|陆金钰|<a href="https://github.com/ljy110/L/tree/master/ljy">https://github.com/ljy110/L/tree/master/ljy</a>
 12|蒋豪杰|<a href="https://github.com/JHJOO123/hw1">https://github.com/JHJOO123/hw1</a>
