@@ -14,6 +14,6 @@ Order|Name|Table
 12|蒋豪杰|<a href="https://github.com/JHJOO123/homework11.23">https://github.com/JHJOO123/homework11.23</a>
 13|宋思璇|<a href="https://gitee.com/ssx123456/456/tree/master/">https://gitee.com/ssx123456/456/tree/master/</a>
 14|王琳|<a href="https://gitee.com/lainey-git/hwo2">https://gitee.com/lainey-git/hwo2</a>
-15|赵薇|<a href="https://gitee.com/hongshuganya_1689668160/102107/tree/master/hw4">https://gitee.com/hongshuganya_1689668160/102107/tree/master/hw4</a>
+15|赵薇|<a href="https://gitee.com/hongshuganya_1689668160/102107/tree/master/HW/20181123HW">https://gitee.com/hongshuganya_1689668160/102107/tree/master/HW/20181123HW</a>
 
 
